@@ -1,7 +1,13 @@
 alterei
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 mudando aqui de novo o projeto, conflito
 =======
 mudei tudo
 >>>>>>> origin/main
+=======
+mudei tudo
+
+mudei aqui também!
+>>>>>>> f0f85e87900c1733db16da472840154420fde2a1
